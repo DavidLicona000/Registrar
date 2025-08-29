@@ -264,7 +264,7 @@ if (!isset($_SESSION['logueado']) || $_SESSION['logueado'] !== true) {
 
    <div class="sidebar">
     <h2>MENU CABLE E INTERNET</h2>
-    <a href="registrar_clientes.php">REGISTRAR CLIENTES</a>
+    <a href="https://davidlicona000.github.io/Registrar/">REGISTRAR CLIENTES</a>
     <a href="registrar_contratos.php">REGISTRAR CONTRATOS</a>
     <a href="registrar_equipos.php">REGISTRAR EQUIPOS</a>
     <a href="registrar_facturas.php">REGISTRAR FACTURAS</a>
